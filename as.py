@@ -402,11 +402,11 @@ logo = """
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 \33[1;41m                   POWERD BY   MARINA KHAN    NEW PUBLIC TOOLS 💛👈 \33[0m
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹
-\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  : MARINA KHAN
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  MARINA KHAN
-\x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :   MARINA KHAN
-\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42  MARINA-TECH\33[0m
-\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m    1.0.3    \x1b[1;97m          
+\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥       :        MARINA KHAN
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞     :        MARINA KHAN
+\x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕        :        MARINA KHAN
+\x1b[1;97m[+] 𝗧𝗘𝗔𝗠          :\33[1;42MARINA-TECH\33[0m
+\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡       :\x1b[1;97m 1.0.3    \x1b[1;97m          
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 """
  
@@ -435,15 +435,15 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/tohidkhna6332 ")
+			os.system("xdg-open https://www.facebook.com/gamerqueen3632 ")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜??𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
 			print("")
-			input("\n\033[1;37m TYᑭᗴ Tᕼᗴ Oᗯᑎᗴᖇ ᖴᗩᑕᗴᗷOOK ᗩᑕᑕOᑌᑎT ᑎᗩᗰᗴ \033[1;37m")
+			input("\n\033[1;37m TYPE THE NAME OF FACEBOOK ID OWNER= \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO 𝐌𝐫 𝐓𝐨𝐡𝐢𝐝  HACKINGS TOOL 🔥")
+			print("\033[1;32m WELCOME TO MARINA KHAN  HACKINGS TOOL 🔥")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
